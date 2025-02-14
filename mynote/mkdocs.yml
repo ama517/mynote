@@ -1,0 +1,7 @@
+site_name: My Docs
+theme: readthedocs
+nav:
+  - Home: index.md
+  - plane: note1.md
+  - mkdocs: markdown.md
+site_favicon: image/markdown/1739524117409.png
